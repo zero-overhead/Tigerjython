@@ -3,6 +3,7 @@
 Repository clonen (einmalig)
 ```
 cd $HOME
+nix-shell -p git
 git clone https://github.com/zero-overhead/Tigerjython
 ```
 
